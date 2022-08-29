@@ -27,7 +27,7 @@ experience:
     location: California
     date_start: '2022-06-13'
     date_end: '2022-09-02'
-    description: Designed and simulated an auction mechanism for labor scheduling.
+    description: Economist intern on the People Experience and Technology Central Science (PXTCS) team. Designed and simulated an auction mechanism for labor scheduling.
 
   - title: Senior Analyst
     company: Cornerstone Research
@@ -35,11 +35,13 @@ experience:
     date_start: '2016-07-01'
     date_end: '2018-09-01'
     description: |2-
-      Projects include:
+      Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
       
-      * ERISA
+      Cases include:
+      
       * Hospital Merger
-      * 10-b5 Stock Drop
+      * ERISA
+      * Rule 10b-5
 
 design:
   columns: '2'
