@@ -27,7 +27,7 @@ experience:
     location: California
     date_start: '2022-06-13'
     date_end: '2022-09-02'
-    description: Economist intern on the People Experience and Technology Central Science (PXTCS) team. Designed and simulated an auction mechanism for labor scheduling.
+    description: Economist intern on the People Experience and Technology Central Science (PXTCS) team.
 
   - title: Senior Analyst
     company: Cornerstone Research
