@@ -27,7 +27,7 @@ experience:
     location: California
     date_start: '2022-06-13'
     date_end: '2022-09-02'
-    description: Economist intern on the People Experience and Technology Central Science (PXTCS) team.
+    description: Worked on the People Experience and Technology Central Science (PXTCS) team.
 
   - title: Senior Analyst
     company: Cornerstone Research
@@ -35,7 +35,7 @@ experience:
     date_start: '2016-07-01'
     date_end: '2018-09-01'
     description: |2-
-      Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
+      Analyzed economic and financial data to write reports and support PhD experts during legal testimony. Utilized data science techniques and econometric methods to calculate damages and show causality.
       
       Cases include:
       

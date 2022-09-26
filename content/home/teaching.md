@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: ECON 11 Microeconomic Theory
-    organization: Lecturer
+    organization: Instructor
     date_start: '2021-08-01'
 
   - title: Econ 97 Economics Toolkit
-    organization: Lecturer
+    organization: Instructor
     date_start: '2021-10-01'
     
   - title: Econ 5 Economics for Everyone

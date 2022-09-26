@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Los Angeles
+  - name: University of California, Los Angeles (UCLA)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical industrial organization.
@@ -61,7 +61,7 @@ email: 'andrewheinzman@ucla.edu'
 highlight_name: true
 ---
 
-I am a PhD candidate in economics at UCLA. I will be on the 2022-2023 jobs market.
+I am a PhD candidate in economics at UCLA researching topics in empirical industrial organization. I will be on the 2022-2023 job market.
 
 My research focuses on how firms decide to set prices under uncertainty.
 
