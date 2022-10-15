@@ -13,7 +13,7 @@ organizations:
   - name: University of California, Los Angeles (UCLA)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include empirical industrial organization.
+bio: I am a PhD candidate in economics at UCLA researching topics in empirical industrial organization. I will be on the 2022-2023 job market.
 
 # Interests to show in About widget
 interests:
@@ -63,7 +63,7 @@ highlight_name: true
 
 I am a PhD candidate in economics at UCLA researching topics in empirical industrial organization. I will be on the 2022-2023 job market.
 
-My research focuses on how firms decide to set prices under uncertainty.
+In my research, I try to provide answers to questions that help sellers and platforms make better product selection and pricing decisions. My primary research focus is on how firms introduce and price new products under uncertainty.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Andrew_Heinzman_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

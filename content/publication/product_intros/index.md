@@ -3,7 +3,7 @@ title = "New Product Introductions, Retailer Learning, and Pricing"
 subtitle = "Job Market Paper"
 
 # Date first published.
-date = "2022-09-27"
+date = "2022-10-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andrew Heinzman"]
@@ -24,7 +24,7 @@ publication = "Job Market Paper"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "I study how retailers introduce new products and learn to set prices across a network of stores. Retailers are often uncertain about the demand for new products which makes setting an appropriate price difficult. To learn about demand for a product that is new to a market, retailers use demand for existing, similar products and demand in similar markets. As a result, retailers know the least about the demand for products that are new to all markets and have few substitutes. When retailers are uncertain about the demand for a new product, they introduce the product to an initial subset of stores rather than their full network. As the retailer learns about demand, they expand the product to new markets with similar patterns of demand. The result is that retailers learn about demand and set prices for new products based on their experience with close substitutes and by utilizing similarities in demand across their network of stores."
+abstract = "I study how retailers introduce new products and learn to set prices across a network of stores. Retailers are often uncertain about the demand for new products which makes setting an appropriate price difficult. To learn about demand for a product that is new to a market, retailers use demand for existing, similar products and demand in similar markets. As a result, retailers know the least about the demand for products that are new to all markets and have few substitutes. When retailers are uncertain about the demand for a new product, they introduce the product to an initial subset of stores rather than their full network. The retailer then learns about demand by observing sales in that market and similar markets. The result is that retailers learn about demand and set prices for new products based on their experience with close substitutes and by utilizing similarities in demand across their network of stores."
 
 # Featured image thumbnail (optional)
 #image_preview = "recruiter_graph.png"
