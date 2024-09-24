@@ -6,14 +6,14 @@ title: Andrew Heinzman
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Los Angeles (UCLA)
+  - name: Cornerstone Research
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in economics at UCLA researching topics in empirical industrial organization. I will be on the 2022-2023 job market.
+bio: I am an associate at Cornerstone Research focusing on antitrust casework. I received a PhD in economics from UCLA where my research focused on topics in empirical industrial organization.
 
 # Interests to show in About widget
 interests:
@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of California, Los Angeles
-      year: expected 2023
+      year: 2023
     - course: MA in Economics
       institution: University of California, Los Angeles
       year: 2020
@@ -61,9 +61,11 @@ email: 'andrewheinzman@ucla.edu'
 highlight_name: true
 ---
 
-I am a PhD candidate in economics at UCLA researching topics in empirical industrial organization. I will be on the 2022-2023 job market.
+I am an associate at Cornerstone Research focusing on antitrust casework. I received a PhD in economics from UCLA where my research focused on topics in empirical industrial organization.
 
-In my research, I try to provide answers to questions that help sellers and platforms make better product selection and pricing decisions. My primary research focus is on how firms introduce and price new products under uncertainty.
+At Cornerstone Research I analyze complex antitrust and competition matters. I have experience with mergers in a variety of industries including supporting the Alaska Airlines/Hawaiian Airlines merger through the regulatory review process.
+
+In my PhD research, I try to provide answers to questions that help sellers and platforms make better product selection and pricing decisions. My primary research focus is on how firms introduce and price new products under uncertainty.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Andrew_Heinzman_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
